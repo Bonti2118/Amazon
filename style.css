@@ -22,7 +22,7 @@
 
 
 .logo {
-    background-image: url("2023_11$largeimg28_Nov_2023_200728417.jpg");
+    background-image: url("images/2023_11$largeimg28_Nov_2023_200728417.jpg");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -151,7 +151,7 @@ span {
 }
 
 .hero-section {
-    background-image: url("Dresses-Kurtas-more_5._CB555362677_.png");
+    background-image: url("images/Dresses-Kurtas-more_5._CB555362677_.png");
     height: 450px;
     background-size: cover;
     display: flex;
